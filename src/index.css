@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+body {
+  margin: 0;
+  background-color: #000;
+  font-family: 'Josefin Sans', sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
+.smooth-scroll a {
+  scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+  display: none;
+  scroll-behavior: smooth;
+}
+
